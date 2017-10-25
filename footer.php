@@ -1,7 +1,7 @@
 <div class="navbar navbar-default navbar-fixed-bottom">
     <div class="container">
       <p class="navbar-text pull-left">&copy <?php echo date('Y');?> - Sistema de Facturación -
-           <a href="http://rfh.cr" target="_blank" style="color: #ecf0f1">Katanna.pro</a> Lite Version
+           <a href="http://rfh.cr" target="_blank" style="color: #ecf0f1">Costa Rica</a> Simple
       </p>
    </div>
 </div>

@@ -3,7 +3,7 @@
 -- https://www.phpmyadmin.net/
 --
 -- Servidor: localhost:3306
--- Tiempo de generación: 24-10-2017 a las 19:35:41
+-- Tiempo de generación: 24-10-2017 a las 20:02:02
 -- Versión del servidor: 5.6.37
 -- Versión de PHP: 5.6.30
 
@@ -147,7 +147,7 @@ CREATE TABLE `perfil` (
 --
 
 INSERT INTO `perfil` (`id_perfil`, `cedula`, `nombre_empresa`, `direccion`, `ciudad`, `codigo_postal`, `estado`, `telefono`, `email`, `impuesto`, `moneda`, `logo_url`, `mensaje_factura`) VALUES
-(1, '3-101-123456', 'Su nombre', 'San Pedro', 'San RamÃ³n', '20201', 'Alajuela', '+(506) 5555-555', 'info@demoprueba.pro', 13, '$', 'img/1496440455_logo-small.png', 'Esta factura constituye Titulo Ejecutivo y se rige por el artÃ­culo 460 del cÃ³digo de Comercio. La cancelaciÃ³n de esta factura se harÃ¡ en U.S. $, o en colones al tipo de cambio vigente en la fecha de facturaciÃ³n de la misma.														');
+(1, '3-101-123456', 'Su nombre', 'San Pedro', 'San RamÃ³n', '20201', 'Alajuela', '+(506) 5555-555', 'info@demoprueba.pro', 13, '$', 'img/1503637578_html-2188441_640.png', 'Esta factura constituye Titulo Ejecutivo y se rige por el artÃ­culo 460 del cÃ³digo de Comercio. La cancelaciÃ³n de esta factura se harÃ¡ en U.S. $, o en colones al tipo de cambio vigente en la fecha de facturaciÃ³n de la misma.														');
 
 -- --------------------------------------------------------
 

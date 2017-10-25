@@ -42,7 +42,7 @@ if ($login->isUserLoggedIn() == true) {
 <body>
  <div class="container">
         <div class="card card-container">
-            <img id="profile-img" src="img/logo-small.png" height="130px" />
+            <img id="profile-img" src="img/logo.jpg" height="130px" />
             <p id="profile-name" class="profile-name-card"></p>
             <form method="post" accept-charset="utf-8" action="login.php" name="loginform" autocomplete="off" role="form" class="form-signin">
 			<?php
