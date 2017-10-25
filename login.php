@@ -33,7 +33,7 @@ if ($login->isUserLoggedIn() == true) {
 <head>
   <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
   <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1.0, user-scalable=no"/>
-  <title>Facturacion | Katanna Lite</title>
+  <title>Facturacion | Costa Rica</title>
 	<!-- Latest compiled and minified CSS -->
 	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" integrity="sha384-1q8mTJOASx8j1Au+a5WDVnPi2lkFfwwEAa8hDDdjZlpLegxhjVME1fgjWPGmkzs7" crossorigin="anonymous">
   <!-- CSS  -->
@@ -42,7 +42,7 @@ if ($login->isUserLoggedIn() == true) {
 <body>
  <div class="container">
         <div class="card card-container">
-            <img id="profile-img" src="img/logo.jpg" height="130px" />
+            <img id="profile-img" src="img/logo.jpg" height="90px" />
             <p id="profile-name" class="profile-name-card"></p>
             <form method="post" accept-charset="utf-8" action="login.php" name="loginform" autocomplete="off" role="form" class="form-signin">
 			<?php
