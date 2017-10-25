@@ -9,10 +9,13 @@ Entre las mejoras usa el web service de Ariel Orozco para traer los tipos de cam
 	<li>Generar pdfs, enviar por correo.</li>
 	<li>Manejo general de clientes y productos.</li>
 </ul>
-
+El usuario que tiene la base de datos es demo con la clave demo1234<br>
 
 Ejemplo:
 <img src="demo-img.png">
+
+Video:
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dgol8GEJYys?rel=0" frameborder="0" allowfullscreen></iframe>
 
 Recuerde modificar el archivo /config/db.php con sus datos de conexion. <br>
 Recuerde modificar su email en el archivo /documentos/res/archivo_temp_email.php
