@@ -15,3 +15,6 @@ Entre las mejoras usa el web service de Ariel Orozco para traer los tipos de cam
 Ejemplo:
 <img src="demo-img.png">
 
+Recuerde modificar el archivo /config/db.php con sus datos de conexion. <br>
+Recuerde modificar su email en el archivo /documentos/res/archivo_temp_email.php
+
