@@ -1,6 +1,5 @@
 # script de Facturacion simple para Costa Rica (PHP)
 Este script en php es una adaptación a uno que previamente ya cumplía con muchas de las funciones necesarias para facturar, pero se adapta a lo requerido en Costa Rica, por lo que queda abierto con la solicitud de aportar a mejorar el proyecto.
-<small>Desconozco al creador del script base.</small>
 Entre las mejoras usa el web service de Ariel Orozco para traer los tipos de cambio del banco central.
 
 <ul>
@@ -18,3 +17,4 @@ Ejemplo:
 Recuerde modificar el archivo /config/db.php con sus datos de conexion. <br>
 Recuerde modificar su email en el archivo /documentos/res/archivo_temp_email.php
 
+El script base fue creado por Obed Alvarado (según los comentarios de algunos archivos). Se adapta de acuerdo a lo que se requiere en Costa Rica, con la facilidad de manejar dos monedas y otras optimizaciones. 
