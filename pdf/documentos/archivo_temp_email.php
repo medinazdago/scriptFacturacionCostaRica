@@ -122,9 +122,9 @@ if(isset($_POST['message'])AND($msjDefault != $_POST['message'])){
 if(isset($_POST['submit'])){
 	$subject = $_POST['asunto'];
 	$body = $_POST['message'];
-	$my_name = "Facturación Digital Simple";
-	$my_mail = "demo@demo.com";
-	$my_replyto = "dagoberto@demo.com";
+	$my_name = "Facturación Digital Simple";//Agregue su nombre o asunto
+	$my_mail = "demo@demo.com";//Agregue su propio email 
+	$my_replyto = "dagoberto@demo.com";//El email para respuestas
 	$my_file = 'factura'.$numero_factura.'.pdf';
 	$file = "../../pdfTemporal/".$my_file;
 	$filename = 'factura-'.$numero_factura.'.pdf';
