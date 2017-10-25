@@ -4,3 +4,6 @@ Entre las mejoras usa el web service de Ariel Orozco para traer los tipos de cam
 Uso de phpmailer para poder entregar correos a la mayoría de clientes del mercado.
 Manejo de moneda para dolar o colones.
 
+Ejemplo:
+<img src="demo-img.png">
+
