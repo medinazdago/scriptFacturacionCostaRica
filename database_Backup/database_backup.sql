@@ -37,7 +37,7 @@ CREATE TABLE `clientes` (
   `direccion_cliente` varchar(255) NOT NULL,
   `status_cliente` tinyint(4) NOT NULL,
   `date_added` datetime NOT NULL,
-  `id_moneda` int(2) NOT NULL
+  `id_moneda` int(2) NOT NULL DEFAULT 2,
 ) ENGINE=MyISAM DEFAULT CHARSET=utf8;
 
 --
