@@ -180,7 +180,7 @@ $total_factura=$subtotal+$total_iva;
   <td colspan="3" style="widtd: 85%; text-align: right;">Imp. Ventas: <?php echo $impuesto;?>%</td>
   <td style="widtd: 15%; text-align: right;"> <?php echo $total_iva;?></td>
 </tr>
-<? } ?>
+<?php } ?>
 <tr>
     <td colspan="3" style="width: 85%; text-align: right;">Total: <?php echo $simbolo_moneda;?> </td>
     <td style="width: 15%; text-align: right;"> <?php echo number_format($total_factura,2);?></td>
