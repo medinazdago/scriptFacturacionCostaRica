@@ -161,7 +161,7 @@
 
 	<?php 
 	//Insert en la tabla detalle_cotizacion
-	$insert_detail=mysqli_query($con, "INSERT INTO detalle_factura VALUES ('','$numero_factura','$id_producto','$cantidad','$precio_venta_r')");
+	$insert_detail=mysqli_query($con, "INSERT INTO detalle_factura VALUES (null,'$numero_factura','$id_producto','$cantidad','$precio_venta_r')");
 	
 	$nums++;
 }
